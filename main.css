@@ -1,0 +1,47 @@
+
+.img{
+    opacity : 0.3;
+    height: fit-content;
+    width: 100%;
+    position: absolute;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+header {
+    position: arelative;
+}
+
+.form-cadastro {
+    margin-bottom: 16px;
+}
+
+.form-cadastro label {
+    font-weight: bold;
+    display: block;
+}
+
+.form-cadastro input {
+    width: 100%;
+    padding: 8px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    position: relative;
+    }
+
+form {
+    max-width: 600px;
+}
+
+button {
+    height: 40px;
+    width: 200px;
+    max-width: 120px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
