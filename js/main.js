@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('#cpf').mask('00000000000')
-    $('#telefone').mask('00000000000')
+    $('#telefone').mask('(000)0000-0000')
     $('#cep').mask('00000000')
 
     $('form').validate ({
